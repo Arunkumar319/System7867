@@ -11,5 +11,5 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
+manifest.mf
 # End of https://www.toptal.com/developers/gitignore/api/netbeans
